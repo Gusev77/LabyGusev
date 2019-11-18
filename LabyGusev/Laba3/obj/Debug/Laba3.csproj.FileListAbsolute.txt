@@ -1,0 +1,5 @@
+C:\Users\serga\source\repos\LabyGusev\Laba3\bin\Debug\Laba3.exe.config
+C:\Users\serga\source\repos\LabyGusev\Laba3\bin\Debug\Laba3.exe
+C:\Users\serga\source\repos\LabyGusev\Laba3\bin\Debug\Laba3.pdb
+C:\Users\serga\source\repos\LabyGusev\Laba3\obj\Debug\Laba3.exe
+C:\Users\serga\source\repos\LabyGusev\Laba3\obj\Debug\Laba3.pdb
